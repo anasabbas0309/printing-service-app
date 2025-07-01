@@ -33,3 +33,45 @@ A modern, responsive React TypeScript application for a comprehensive printing s
 - **Package Manager:** npm
 
 ## 📁 Project Structure
+### Deploy to Netlify
+1. Build the project: npm run build
+2. Upload the build folder to Netlify
+3. Configure build settings:
+   - Build command: npm run build
+   - Publish directory: build
+### Deploy to Vercel
+1. Install Vercel CLI: npm i -g vercel
+2. Run: vercel
+3. Follow the prompts
+## 🤝 Contributing
+1. Fork the repository
+2. Create your feature branch ( git checkout -b feature/AmazingFeature )
+3. Commit your changes ( git commit -m 'Add some AmazingFeature' )
+4. Push to the branch ( git push origin feature/AmazingFeature )
+5. Open a Pull Request
+## 📝 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## 🙏 Credits & Acknowledgments
+Developed by: Muhammad Anas Abbas Website: seomarketguro.com GitHub: @anasabbas0309
+
+### Special Thanks
+- React Team for the amazing framework
+- Tailwind CSS for the utility-first CSS framework
+- Framer Motion for smooth animations
+- Redux Toolkit for simplified state management
+- Lucide React for beautiful icons
+## 📞 Support & Contact
+For support, feature requests, or business inquiries:
+
+- Website: seomarketguro.com
+- Email: Contact through website
+- GitHub Issues: Create an issue
+## 🔄 Version History
+- v1.0.0 - Initial release with core features
+  - Product catalog and customization
+  - Shopping cart functionality
+  - Order tracking system
+  - Responsive design
+  - Slideshow hero section
+Made with ❤️ by Muhammad Anas Abbas
