@@ -53,7 +53,13 @@ A modern, responsive React TypeScript application for a comprehensive printing s
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🙏 Credits & Acknowledgments
-Developed by: Muhammad Anas Abbas Website: seomarketguro.com GitHub: @anasabbas0309
+Developed by: 
+
+*Muhammad Anas Abbas*
+
+ Website: [seomarketguro.com](https://seomarketguro.com/) 
+ 
+ GitHub: @anasabbas0309
 
 ### Special Thanks
 - React Team for the amazing framework
